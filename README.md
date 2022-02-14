@@ -1,41 +1,38 @@
 # InfiniteFanPublic
- 
-README
-
 Section 1 - Summary
 ------------
 Tentatively named "Infinite Fan" is a personal project I'm working on to improve my own skills with C# and Unity, and to hopefully create something fun and interesting in the process!
 This game takes inspiration from infinite jumpers like Doodle Jump, but the player uses a fan to constantly propel a ball-shaped character upwards and past obstacles.
-I'll be keeping track of my changes and thought process in this read me as a dev log-esque document.
+I'll be keeping track of my changes and thought process in this read me as a dev log-esque document.  
 -Bryce T.
 
 Section 2 - Changelog
 ---------------------
-(2/14/22) 0.7.6 - Public version released (+readme update)
-(12/4/21) 0.7.5 - Credits finished (+ readme update)
-(11/6/21) 0.7.4 - BGM volume control and SFX (+ readme update)
-(11/5/21) 0.7.3 - Particle direction fix
-(11/3/21) 0.7.2 - Credits UI update (+ readme update)
-(11/3/21) 0.7.1 - Background music functionality and credits
-(11/1/21) 0.7.0 - Aesthetic overhaul (+ readme update)
-(10/23/21) 0.6.5 - Added SFX packs and audio files
-(10/23/21) 0.6.4 - Added UI asset packs
-(10/23/21) 0.6.3 - Added main assets packs
-(10/23/21) 0.6.2 - High score save and display (+ readme update)
-(10/22/21) 0.6.1 - Hardcoded subchunks and preliminary ball stuck logic
-(10/20/21) 0.6.0 - Ball change feature (+ readme update)
-(10/4/21) 0.5.3 - Clean-up pass (+ readme update)
-(9/29/21) 0.5.2 - Subchunking logic (+ readme update)
-(9/22/21) 0.5.1 - Chunk fixed movement and obstacle rotation
-(9/22/21) 0.5.0 - Chunk generation
-(9/15/21) 0.4.0 - Game over and score (+ readme update)
-(9/15/21) 0.3.1 - Object movement and updated fan physics
-(9/13/21) 0.3.0 - Obstacles (+ readme update)
-(9/6/21) 0.2.1 - Movement clamps (+ readme update)
-(9/3/21) 0.2.0 - Basic fan movement (+ readme update)
-(9/1/21) 0.1.1 - Android SDK build fix (+ readme update)
-(9/1/21) 0.1.0 - Basic menus and fan physics
-(9/1/21) 0.0.0 - First push of Unity project
+(2/14/22) 0.7.6 - Public version released (+readme update)  
+(12/4/21) 0.7.5 - Credits finished (+ readme update)  
+(11/6/21) 0.7.4 - BGM volume control and SFX (+ readme update)  
+(11/5/21) 0.7.3 - Particle direction fix  
+(11/3/21) 0.7.2 - Credits UI update (+ readme update)  
+(11/3/21) 0.7.1 - Background music functionality and credits  
+(11/1/21) 0.7.0 - Aesthetic overhaul (+ readme update)  
+(10/23/21) 0.6.5 - Added SFX packs and audio files  
+(10/23/21) 0.6.4 - Added UI asset packs  
+(10/23/21) 0.6.3 - Added main assets packs  
+(10/23/21) 0.6.2 - High score save and display (+ readme update)  
+(10/22/21) 0.6.1 - Hardcoded subchunks and preliminary ball stuck logic  
+(10/20/21) 0.6.0 - Ball change feature (+ readme update)  
+(10/4/21) 0.5.3 - Clean-up pass (+ readme update)  
+(9/29/21) 0.5.2 - Subchunking logic (+ readme update)  
+(9/22/21) 0.5.1 - Chunk fixed movement and obstacle rotation  
+(9/22/21) 0.5.0 - Chunk generation  
+(9/15/21) 0.4.0 - Game over and score (+ readme update)  
+(9/15/21) 0.3.1 - Object movement and updated fan physics  
+(9/13/21) 0.3.0 - Obstacles (+ readme update)  
+(9/6/21) 0.2.1 - Movement clamps (+ readme update)  
+(9/3/21) 0.2.0 - Basic fan movement (+ readme update)  
+(9/1/21) 0.1.1 - Android SDK build fix (+ readme update)  
+(9/1/21) 0.1.0 - Basic menus and fan physics  
+(9/1/21) 0.0.0 - First push of Unity project  
 
 Section 3 - Personal Notes
 --------------------------
@@ -167,7 +164,7 @@ Even if this game doesn't reach a "completed" state, I'm looking forward to cont
 
 Section 4 - To Do
 -----------------
--SFX volume/toggle
--Convention cleanup
--Brainstorm potential collectibles/powerups
--Experiment with other modes (like a no touch mode or a rotate-only fan)
+-SFX volume/toggle  
+-Convention cleanup  
+-Brainstorm potential collectibles/powerups  
+-Experiment with other modes (like a no touch mode or a rotate-only fan)  
